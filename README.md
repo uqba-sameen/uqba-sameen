@@ -1,4 +1,10 @@
-## Hi there 👋
+* 👋 Hi, I’m Uqba friend
+* 🌱 **Aspiring Web Developer**, continuously learning and exploring new technologies  
+* 💻 **Proficient in HTML, CSS, JavaScript, Tailwind & Next.js**  
+* ✨ **Passionate about coding, problem-solving & building real-world applications**  
+* 🛠️ **Creating small projects to enhance skills and practical experience**  
+
+> "Dream, code, create 🚀"
 
 <!--
 **uqba-sameen/uqba-sameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
