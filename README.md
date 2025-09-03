@@ -1,4 +1,4 @@
-* 👋 Hi, I’m Uqba friend
+* 👋 Hi, I’m Uqba sameen
 * 🌱 **Aspiring Web Developer**, continuously learning and exploring new technologies  
 * 💻 **Proficient in HTML, CSS, JavaScript, Tailwind & Next.js**  
 * ✨ **Passionate about coding, problem-solving & building real-world applications**  
